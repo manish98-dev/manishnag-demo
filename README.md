@@ -1,3 +1,4 @@
 # manishnag-demo
+
 This is my First git repository
-author - Manish
+author - Manish NAG
